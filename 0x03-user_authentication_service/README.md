@@ -223,4 +223,4 @@ This project contains tasks for learning to create a user authentication service
   + Run `python3 main.py`. If everything is correct, you should see no output.
   
   ### Author
-    **Maryann - Unoarumi | Maryann529 |""
+    **WycliffeMwimali""
